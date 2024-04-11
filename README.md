@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+### My name is Le Khau Huu Tai.
+### I'm currently studying at University of Information Technology - Vietnam National University, Ho Chi Minh City.
+### I'm currently learning about Computer Networking.
 <!--
 **Qu11et/Qu11et** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
